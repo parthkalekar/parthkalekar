@@ -2,7 +2,7 @@
 
 ### 🚀 Full Stack Developer | MERN Stack | React Native
 
-📍 **Chh. Sambhajinagar, MH** | ✉️ **parthkalekar2002@gmail.com**  | +91 9284701776
+📍 **Chh. Sambhajinagar, MH** | ✉️ **parthkalekar2002@gmail.com** 
 
 ---
 
