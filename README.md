@@ -2,7 +2,7 @@
 
 ### 🚀 Full Stack Developer | MERN Stack | React Native
 
-📍 **Chh. Sambhajinagar, MH** | ✉️ **parthkalekar2002@gmail.com**  
+📍 **Chh. Sambhajinagar, MH** | ✉️ **parthkalekar2002@gmail.com**  | +91 9284701776
 
 ---
 
@@ -10,8 +10,8 @@
 I'm a **Full Stack Developer** specializing in building **scalable web and mobile applications** with modern technologies like **React.js, React Native, Node.js, Express.js, and MongoDB**. Passionate about problem-solving, team collaboration, and delivering high-quality solutions.
 
 🔹 **Experience:** Web Developer at Hostedminds Pvt. Ltd. (2024 - Present)  
-🔹 **Projects:** Dinest (Restaurant Table Booking App), ChatApp, Shophub (E-Commerce)  
-🔹 **Tech Stack:** React, React Native, Node.js, Express.js, MongoDB, MySQL  
+🔹 **Projects:** Dinest (Restaurant Table Booking App),Attendance Management System,  ChatApp, Shophub (E-Commerce)  
+🔹 **Tech Stack:** React, React Native, Node.js, Express.js, MongoDB, MySQL, Python 
 
 ---
 
@@ -25,6 +25,7 @@ I'm a **Full Stack Developer** specializing in building **scalable web and mobil
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
