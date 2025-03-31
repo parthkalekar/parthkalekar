@@ -31,7 +31,7 @@ I'm a **Full Stack Developer** specializing in building **scalable web and mobil
 
 ### 📌 Featured Projects
 
-#### 🚀 [Shophub (E-Commerce Platform)](https://github.com/your-username/shophub)
+#### 🚀 [Shophub (E-Commerce Platform)](https://github.com/parthkalekar/shophub-frontend)
 - Developed a user-friendly frontend with **React.js**
 - Integrated **Stripe** for secure payments
 - Ensured **responsive design** for all devices
