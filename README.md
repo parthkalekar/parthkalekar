@@ -53,6 +53,11 @@ I'm a **Full Stack Developer** specializing in building **scalable web and mobil
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=parthkalekar&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
+
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=parthkalekar&show_icons=true&theme=gotham" alt="Sonam Soni | Stats" />
+</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthkalekar&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
