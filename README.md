@@ -6,6 +6,7 @@
 📍 **Chh. Sambhajinagar, MH** | ✉️ **parthkalekar2002@gmail.com** 
 
 ---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=parthkalekar&label=Profile%20views&color=0e75b6&style=flat" alt="NeonX26" /> </p>
 
 ### 👨‍💻 About Me
 I'm a **Full Stack Developer** specializing in building **scalable web and mobile applications** with modern technologies like **React.js, React Native, Node.js, Express.js, and MongoDB**. Passionate about problem-solving, team collaboration, and delivering high-quality solutions.
