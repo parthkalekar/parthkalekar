@@ -62,6 +62,6 @@ I'm a **Full Stack Developer** specializing in building **scalable web and mobil
 
 ### 🌎 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parth-kalekar-28205018b) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white)](https://my-portfolio-rosy-seven-45.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white)](https://parthkalekar.tech)
 
 🚀 Always open for collaborations and exciting projects!
